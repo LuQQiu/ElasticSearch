@@ -49,6 +49,7 @@ def test():
 @app.route('/')
 @app.route('/movies')
 @app.route('/index.html')
+@app.route('/movie/index.html')
 def index(genre=None):
     # Get index first page items
     page = 1
