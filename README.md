@@ -7,7 +7,7 @@ After that, I established backend search engine that realized ngram partial matc
 
 Finally, A website was developed and designed with Flask and Node.js to display the movie information.
 
-## How to run
+## How to Run
 starting to crawl data from IMDB website
 ```
 scrapy crawl imdb_spider
@@ -26,5 +26,12 @@ localhost:5000
 ```
 
 ## Final Webpage
-
+### Auto completion suggester
+![autocomple](https://cloud.githubusercontent.com/assets/25273483/23535259/5015a626-ff8b-11e6-9ea0-367290cb8449.jpeg)
+### Aggregation
+![agg](https://cloud.githubusercontent.com/assets/25273483/23535260/50dd2ff2-ff8b-11e6-803c-91eba6832198.jpeg)
+### Sort
+![sort](https://cloud.githubusercontent.com/assets/25273483/23535261/5208e682-ff8b-11e6-97ce-3688f2966837.jpeg)
+### Detailed webpage
+![detailed](https://cloud.githubusercontent.com/assets/25273483/23535263/530d3bd2-ff8b-11e6-94df-718997470979.jpeg)
 
